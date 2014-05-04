@@ -27,7 +27,7 @@ jobs_sync=30
 jobs_build=20
 rom=cm
 rom_version=11
-device_codename=p880
+device_codename=e400
 
 
 # Reset all variables that might be set
